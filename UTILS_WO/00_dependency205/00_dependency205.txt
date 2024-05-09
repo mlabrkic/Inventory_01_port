@@ -1,0 +1,8 @@
+cd C:\...\01_INVENTORY\Inventory_01_port\
+mvn dependency:copy-dependencies
+
+Move
+C:\...\01_INVENTORY\Inventory_01_port\target\dependency\
+
+to:
+C:\UTILS_WO\00_dependency205\
